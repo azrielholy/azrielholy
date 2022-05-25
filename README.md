@@ -17,7 +17,7 @@ Tools that I usually use for Data:
 
 🔍 I've always loved playing around with data, it amazes me how I could put data into different formats, different visualizations, and then make sense out of that data. My interests in the field of data have made me eager to work as a data analyst/data scientist.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadj98&layout=compact)](https://github.com/adityadj98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrielholy&layout=compact)](https://github.com/azrielholy/github-readme-stats)
 
 Connect with me on Linkedin
 
