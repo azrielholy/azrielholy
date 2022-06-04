@@ -21,9 +21,9 @@ Tools that I usually use for Data:
 
 Connect with me on Linkedin
 
-<a href="https://www.linkedin.com/in/azrielholy"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/azrielholy"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-If you looking for my Data Portfolio, here's the link: 
+If you looking for my Data Portfolio, here's the link: <br>
 [Data Portfolio](https://github.com/azrielholy/DS_Workspace)
 
 <!--
